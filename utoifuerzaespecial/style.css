@@ -1,0 +1,28 @@
+body{
+    background-image: url(imagenes/escudoutoifondonegro.jpg);
+    background-size: 100%;/*fondo de pantalla ocupa totalidad de pantalla*/    
+}   
+.body_header_Div{
+    background-image: url(imagenes/fuerzasespecialfondonegro.png);
+    background-size: 100%;
+}
+.botoneraEncabezado{
+    width: 191px;
+    height: 52px;
+    border: 5px black;
+    margin: 15px;
+    text-align: center;
+}   
+
+a{  
+    color: white;
+
+}
+.botoneraNavegador{
+    width: 191px;
+    height: 52px;
+    background-color: #ED631D;
+    border: 5px solid black;
+    margin: 15px;
+    text-align: center;
+}
